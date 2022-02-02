@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "220874242285",
+    "project_id": "emailpasswordauth-6ab9d",
+    "storage_bucket": "emailpasswordauth-6ab9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220874242285:android:a16b08bfdb9ce20b39b4e4",
+        "android_client_info": {
+          "package_name": "com.example.braintumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220874242285-b8g5p11qbfgnot98l8b0mir0896vp5um.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.braintumer",
+            "certificate_hash": "20847df1b7fd49259b977ca3b61f4f5c7a6c4b30"
+          }
+        },
+        {
+          "client_id": "220874242285-oife309qah05id17e6knhmbob43pjlor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg3mOAPedmS1OGlM_EfOZ9A9OK4y81qT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220874242285-oife309qah05id17e6knhmbob43pjlor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
